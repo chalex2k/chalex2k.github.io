@@ -5,6 +5,17 @@
     <link>http://chalex2k.github.io/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://chalex2k.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Feb 2023 01:00:51 +0300</lastBuildDate><atom:link href="http://chalex2k.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://chalex2k.github.io/posts/my-first-post/</link>
+      <pubDate>Wed, 15 Feb 2023 01:00:51 +0300</pubDate>
+      
+      <guid>http://chalex2k.github.io/posts/my-first-post/</guid>
+      <description>Introduction This is bold text, and this is emphasized text.
+Visit the Hugo website!</description>
+    </item>
+    
   </channel>
 </rss>
