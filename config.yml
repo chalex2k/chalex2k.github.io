@@ -1,0 +1,7 @@
+baseURL: 'https://chalex2k.github.io/'
+languageCode: 'en-us'
+title: 'Alexander Chirkin'
+theme: charlolamode
+profileMode:
+    enabled: false
+
