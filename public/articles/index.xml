@@ -6,7 +6,17 @@
     <description>Recent content in Articles on Alexander Chirkin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Jan 2023 16:34:40 +0300</lastBuildDate><atom:link href="https://chalex2k.github.io/articles/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Mar 2023 21:11:49 +0300</lastBuildDate><atom:link href="https://chalex2k.github.io/articles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Менеджер не виноват в том, что твой код не покрыт тестами</title>
+      <link>https://chalex2k.github.io/articles/about-testing/</link>
+      <pubDate>Wed, 15 Mar 2023 21:11:49 +0300</pubDate>
+      
+      <guid>https://chalex2k.github.io/articles/about-testing/</guid>
+      <description>Менеджер не виноват в том, что код не покрыт тестами. Тесты это хорошо. Тесты нужны. Но почему-то их не всегда пишут. Почему так происходит?
+В разработке важно соблюсти баланс скорость-качество. Тестирование, на мой взгляд, стоит рассматривать как инструмент, помогающий улучшить эти показатели. И качество, и скорость. Обычно про тесты вспоминают когда что-то сломалось, да ещё и не понятно где именно, нужно дебажить. Тогда разработчик говорит: &amp;ldquo;А вот были бы у нас тесты, мы бы сразу этот баг поймали.</description>
+    </item>
+    
     <item>
       <title>Нужно ли программистам знать математику?</title>
       <link>https://chalex2k.github.io/articles/do-programmers-need-to-know-math/</link>
