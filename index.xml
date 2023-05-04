@@ -6,7 +6,18 @@
     <description>Recent content on Alexander Chirkin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Mar 2023 21:11:49 +0300</lastBuildDate><atom:link href="https://chalex2k.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 04 May 2023 21:46:47 +0300</lastBuildDate><atom:link href="https://chalex2k.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Как выбрать язык программирования</title>
+      <link>https://chalex2k.github.io/articles/how-to-choose-a-language/</link>
+      <pubDate>Thu, 04 May 2023 21:46:47 +0300</pubDate>
+      
+      <guid>https://chalex2k.github.io/articles/how-to-choose-a-language/</guid>
+      <description>На чём писать хорошо? Я рассмотриваю сейчас исключительно вопрос удобства языка. Для меня важно, чтобы язык меня не удивлял, чтобы он был предсказуем, непротиворечив, чтобы не возникало вопросов: &amp;ldquo;А почему так сделано, где логика?&amp;rdquo;.
+Конечно, в идеале попробовать язык и составить о нём своё мнение. Но попробовать каждый язык это долго. Я вижу 2 фактора по которым можно судить о том, насколько язык удобен.
+Кем был создан язык и при каких условиях Кто эти люди, которые создали язык?</description>
+    </item>
+    
     <item>
       <title>Менеджер не виноват в том, что твой код не покрыт тестами</title>
       <link>https://chalex2k.github.io/articles/about-testing/</link>
