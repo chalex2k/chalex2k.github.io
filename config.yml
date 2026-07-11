@@ -4,4 +4,7 @@ title: 'Alexander Chirkin'
 theme: charlolamode
 profileMode:
     enabled: false
+caches:
+  images:
+    dir: :cacheDir/images
 
