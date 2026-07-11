@@ -1,21 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Posts on Alexander Chirkin</title>
-    <link>https://chalex2k.github.io/posts/</link>
-    <description>Recent content in Posts on Alexander Chirkin</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 03 Jan 2023 16:34:40 +0300</lastBuildDate><atom:link href="https://chalex2k.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Нужно ли программистам знать математику?</title>
-      <link>https://chalex2k.github.io/posts/do-programmers-need-to-know-math/</link>
-      <pubDate>Tue, 03 Jan 2023 16:34:40 +0300</pubDate>
-      
-      <guid>https://chalex2k.github.io/posts/do-programmers-need-to-know-math/</guid>
-      <description>Нужна ли математика программисту? Заезженный вопрос. Обычно аргументы бывают двух типов: &amp;ldquo;Нет, не нужна. Вот Вася Иванов - отличный прогаммист, а математики не знает.&amp;rdquo; и &amp;ldquo;Да, нужна. Она правильно мозги развивает и учит думать&amp;rdquo;. Разумеется, мы не рассматриваем области в которых математика нужна непостредственно.
-80% программистов имеют степень бакалавра или выше и большинство из них по компьютрным наукам либо смежным дисциплинам. (stackoverflow survey) Я предполагаю это ложная корреляция. Как, например, можно заметить, что страдающие раком лёгких чаще носят в кармане зажигалку, чем здоровые люди.</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>Posts on Alexander Chirkin</title>
+		<link>https://chalex2k.github.io/posts/</link>
+		<description>Recent content in Posts on Alexander Chirkin</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 03 Jan 2023 16:34:40 +0300</lastBuildDate>
+		
+			<atom:link href="https://chalex2k.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Нужно ли программистам знать математику?</title>
+				<link>https://chalex2k.github.io/posts/do-programmers-need-to-know-math/</link>
+				<pubDate>Tue, 03 Jan 2023 16:34:40 +0300</pubDate>
+				<guid>https://chalex2k.github.io/posts/do-programmers-need-to-know-math/</guid>
+				<description>&lt;h1 id=&#34;нужна-ли-математика-программисту&#34;&gt;Нужна ли математика программисту?&lt;/h1&gt;&#xA;&lt;p&gt;Заезженный вопрос. Обычно аргументы бывают двух типов: &amp;ldquo;Нет, не нужна. Вот Вася Иванов - отличный прогаммист, а&#xA;математики не знает.&amp;rdquo; и &amp;ldquo;Да, нужна. Она правильно мозги развивает и учит думать&amp;rdquo;. Разумеется, мы не рассматриваем&#xA;области в которых математика нужна непостредственно.&lt;/p&gt;&#xA;&lt;p&gt;80% программистов имеют степень бакалавра или выше и большинство из них по компьютрным наукам либо смежным&#xA;дисциплинам. (&lt;a href=&#34;https://insights.stackoverflow.com/survey/2019#education&#34;&gt;stackoverflow survey&lt;/a&gt;) Я предполагаю это&#xA;&lt;a href=&#34;https://www.codecamp.ru/blog/spurious-correlation-examples/&#34;&gt;ложная корреляция&lt;/a&gt;. Как, например, можно заметить, что&#xA;страдающие раком лёгких чаще носят в кармане зажигалку, чем здоровые люди. Но, ведь не зажигалка является причиной&#xA;болезни. Я думаю мы имеем дело со скрытой переменной, чем-то, что способствует тому, что человек станет программистом и&#xA;что он будет знать математику. Что это, мы пока не знаем. Но мы можем сделать следующий вывод. Если&#xA;причинно-следственной связи нет, то учить математику только для того, чтобы стать програмистом нет смысла. Переложить&#xA;зажигалку из кармана в рюкзак не поможет. Если вам сама математика не нравится, не тратьте время.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

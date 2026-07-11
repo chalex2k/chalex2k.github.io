@@ -1,71 +1,45 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Alexander Chirkin</title>
-    <link>https://chalex2k.github.io/</link>
-    <description>Recent content on Alexander Chirkin</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 04 May 2023 21:46:47 +0300</lastBuildDate><atom:link href="https://chalex2k.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Как выбрать язык программирования</title>
-      <link>https://chalex2k.github.io/articles/how-to-choose-a-language/</link>
-      <pubDate>Thu, 04 May 2023 21:46:47 +0300</pubDate>
-      
-      <guid>https://chalex2k.github.io/articles/how-to-choose-a-language/</guid>
-      <description>На чём писать хорошо? Я рассматриваю сейчас исключительно вопрос удобства языка. Для меня важно, чтобы язык меня не удивлял, чтобы он был предсказуем, непротиворечив, чтобы не возникало вопросов: &amp;ldquo;А почему так сделано, где логика?&amp;rdquo;.
-Конечно, в идеале попробовать язык и составить о нём своё мнение. Но попробовать каждый язык это долго. Я вижу 2 фактора по которым можно судить о том, насколько язык удобен.
-Кем был создан язык и при каких условиях Кто эти люди, которые создали язык?</description>
-    </item>
-    
-    <item>
-      <title>Менеджер не виноват в том, что твой код не покрыт тестами</title>
-      <link>https://chalex2k.github.io/articles/about-testing/</link>
-      <pubDate>Wed, 15 Mar 2023 21:11:49 +0300</pubDate>
-      
-      <guid>https://chalex2k.github.io/articles/about-testing/</guid>
-      <description>Менеджер не виноват в том, что код не покрыт тестами. Тесты это хорошо. Тесты нужны. Но почему-то их не всегда пишут. Почему так происходит?
-В разработке важно соблюсти баланс скорость-качество. Тестирование, на мой взгляд, стоит рассматривать как инструмент, помогающий улучшить эти показатели. И качество, и скорость. Обычно про тесты вспоминают когда что-то сломалось, да ещё и не понятно где именно, нужно дебажить. Тогда разработчик говорит: &amp;ldquo;А вот были бы у нас тесты, мы бы сразу этот баг поймали.</description>
-    </item>
-    
-    <item>
-      <title>Нужно ли программистам знать математику?</title>
-      <link>https://chalex2k.github.io/articles/do-programmers-need-to-know-math/</link>
-      <pubDate>Tue, 03 Jan 2023 16:34:40 +0300</pubDate>
-      
-      <guid>https://chalex2k.github.io/articles/do-programmers-need-to-know-math/</guid>
-      <description>Нужна ли математика программисту? Заезженный вопрос. Обычно аргументы бывают двух типов: &amp;ldquo;Нет, не нужна. Вот Вася Иванов - отличный прогаммист, а математики не знает.&amp;rdquo; и &amp;ldquo;Да, нужна. Она правильно мозги развивает и учит думать&amp;rdquo;. Разумеется, мы не рассматриваем области в которых математика нужна непостредственно.
-80% программистов имеют степень бакалавра или выше и большинство из них по компьютрным наукам либо смежным дисциплинам. (stackoverflow survey) Я предполагаю это ложная корреляция. Как, например, можно заметить, что страдающие раком лёгких чаще носят в кармане зажигалку, чем здоровые люди.</description>
-    </item>
-    
-    <item>
-      <title>Нужно ли программистам знать математику?</title>
-      <link>https://chalex2k.github.io/posts/do-programmers-need-to-know-math/</link>
-      <pubDate>Tue, 03 Jan 2023 16:34:40 +0300</pubDate>
-      
-      <guid>https://chalex2k.github.io/posts/do-programmers-need-to-know-math/</guid>
-      <description>Нужна ли математика программисту? Заезженный вопрос. Обычно аргументы бывают двух типов: &amp;ldquo;Нет, не нужна. Вот Вася Иванов - отличный прогаммист, а математики не знает.&amp;rdquo; и &amp;ldquo;Да, нужна. Она правильно мозги развивает и учит думать&amp;rdquo;. Разумеется, мы не рассматриваем области в которых математика нужна непостредственно.
-80% программистов имеют степень бакалавра или выше и большинство из них по компьютрным наукам либо смежным дисциплинам. (stackoverflow survey) Я предполагаю это ложная корреляция. Как, например, можно заметить, что страдающие раком лёгких чаще носят в кармане зажигалку, чем здоровые люди.</description>
-    </item>
-    
-    <item>
-      <title>Math Braintrainer</title>
-      <link>https://chalex2k.github.io/projects/math-brain-trainer/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://chalex2k.github.io/projects/math-brain-trainer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Surprise Surprise</title>
-      <link>https://chalex2k.github.io/articles/article/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://chalex2k.github.io/articles/article/</guid>
-      <description>Thank you for your support! Hello. If you like this template, I&amp;rsquo;d be happy to get a coffee donation :)
- </description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>Alexander Chirkin</title>
+		<link>https://chalex2k.github.io/</link>
+		<description>Recent content on Alexander Chirkin</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 04 May 2023 21:46:47 +0300</lastBuildDate>
+		
+			<atom:link href="https://chalex2k.github.io/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Как выбрать язык программирования</title>
+				<link>https://chalex2k.github.io/articles/how-to-choose-a-language/</link>
+				<pubDate>Thu, 04 May 2023 21:46:47 +0300</pubDate>
+				<guid>https://chalex2k.github.io/articles/how-to-choose-a-language/</guid>
+				<description>&lt;h1 id=&#34;на-чём-писать-хорошо&#34;&gt;На чём писать хорошо?&lt;/h1&gt;&#xA;&lt;p&gt;Я рассматриваю сейчас исключительно вопрос удобства языка. Для меня важно, чтобы язык меня не удивлял, чтобы он был предсказуем, непротиворечив, чтобы не возникало вопросов: &amp;ldquo;А почему так сделано, где логика?&amp;rdquo;.&lt;/p&gt;&#xA;&lt;p&gt;Конечно, в идеале попробовать язык и составить о нём своё мнение. Но попробовать каждый язык это долго. Я вижу 2 фактора по которым можно судить о том, насколько язык удобен.&lt;/p&gt;&#xA;&lt;h2 id=&#34;кем-был-создан-язык-и-при-каких-условиях&#34;&gt;Кем был создан язык и при каких условиях&lt;/h2&gt;&#xA;&lt;p&gt;Кто эти люди, которые создали язык? Это команда или один человек? Большинство более менее популярных языков разработываются не в одиночку. Я думаю, что у команды больше шансов создать более удобный язык. Создатели языка эксперты в этом деле или они вообще изначально не планировали создавать язык программирования?&lt;br&gt;&#xA;Под условиями я имею в виду время или другие факторы которые влияли на разработку. Иногда даже команда профессионалов может ошибаться, если им приходится спроектировать язык за несколько недель.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Менеджер не виноват в том, что твой код не покрыт тестами</title>
+				<link>https://chalex2k.github.io/articles/about-testing/</link>
+				<pubDate>Wed, 15 Mar 2023 21:11:49 +0300</pubDate>
+				<guid>https://chalex2k.github.io/articles/about-testing/</guid>
+				<description>&lt;h1 id=&#34;менеджер-не-виноват-в-том-что-код-не-покрыт-тестами&#34;&gt;Менеджер не виноват в том, что код не покрыт тестами.&lt;/h1&gt;&#xA;&lt;p&gt;Тесты это хорошо. Тесты нужны. Но почему-то их не всегда пишут. Почему так происходит?&lt;/p&gt;&#xA;&lt;p&gt;В разработке важно соблюсти баланс скорость-качество. Тестирование, на мой взгляд, стоит рассматривать как инструмент, помогающий улучшить эти показатели. И качество, и скорость.&#xA;Обычно про тесты вспоминают когда что-то сломалось, да ещё и не понятно где именно, нужно дебажить. Тогда разработчик говорит: &amp;ldquo;А вот были бы у нас тесты, мы бы сразу этот баг поймали. Теперь придётся какое-то время искать что не работает и придумывать как это исправить. Ну разве я виноват? Времени нам на тесты не дают. И задачи написать тесты никогда не ставили. Только новый функционал требуют. А потом удивляются почему всё постоянно падает и мы медленно разработываем.&amp;rdquo;. Я сам так много раз делал.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Нужно ли программистам знать математику?</title>
+				<link>https://chalex2k.github.io/articles/do-programmers-need-to-know-math/</link>
+				<pubDate>Tue, 03 Jan 2023 16:34:40 +0300</pubDate>
+				<guid>https://chalex2k.github.io/articles/do-programmers-need-to-know-math/</guid>
+				<description>&lt;h1 id=&#34;нужна-ли-математика-программисту&#34;&gt;Нужна ли математика программисту?&lt;/h1&gt;&#xA;&lt;p&gt;Заезженный вопрос. Обычно аргументы бывают двух типов: &amp;ldquo;Нет, не нужна. Вот Вася Иванов - отличный прогаммист, а&#xA;математики не знает.&amp;rdquo; и &amp;ldquo;Да, нужна. Она правильно мозги развивает и учит думать&amp;rdquo;. Разумеется, мы не рассматриваем&#xA;области в которых математика нужна непостредственно.&lt;/p&gt;&#xA;&lt;p&gt;80% программистов имеют степень бакалавра или выше и большинство из них по компьютрным наукам либо смежным&#xA;дисциплинам. (&lt;a href=&#34;https://insights.stackoverflow.com/survey/2019#education&#34;&gt;stackoverflow survey&lt;/a&gt;) Я предполагаю это&#xA;&lt;a href=&#34;https://www.codecamp.ru/blog/spurious-correlation-examples/&#34;&gt;ложная корреляция&lt;/a&gt;. Как, например, можно заметить, что&#xA;страдающие раком лёгких чаще носят в кармане зажигалку, чем здоровые люди. Но, ведь не зажигалка является причиной&#xA;болезни. Я думаю мы имеем дело со скрытой переменной, чем-то, что способствует тому, что человек станет программистом и&#xA;что он будет знать математику. Что это, мы пока не знаем. Но мы можем сделать следующий вывод. Если&#xA;причинно-следственной связи нет, то учить математику только для того, чтобы стать програмистом нет смысла. Переложить&#xA;зажигалку из кармана в рюкзак не поможет. Если вам сама математика не нравится, не тратьте время.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Нужно ли программистам знать математику?</title>
+				<link>https://chalex2k.github.io/posts/do-programmers-need-to-know-math/</link>
+				<pubDate>Tue, 03 Jan 2023 16:34:40 +0300</pubDate>
+				<guid>https://chalex2k.github.io/posts/do-programmers-need-to-know-math/</guid>
+				<description>&lt;h1 id=&#34;нужна-ли-математика-программисту&#34;&gt;Нужна ли математика программисту?&lt;/h1&gt;&#xA;&lt;p&gt;Заезженный вопрос. Обычно аргументы бывают двух типов: &amp;ldquo;Нет, не нужна. Вот Вася Иванов - отличный прогаммист, а&#xA;математики не знает.&amp;rdquo; и &amp;ldquo;Да, нужна. Она правильно мозги развивает и учит думать&amp;rdquo;. Разумеется, мы не рассматриваем&#xA;области в которых математика нужна непостредственно.&lt;/p&gt;&#xA;&lt;p&gt;80% программистов имеют степень бакалавра или выше и большинство из них по компьютрным наукам либо смежным&#xA;дисциплинам. (&lt;a href=&#34;https://insights.stackoverflow.com/survey/2019#education&#34;&gt;stackoverflow survey&lt;/a&gt;) Я предполагаю это&#xA;&lt;a href=&#34;https://www.codecamp.ru/blog/spurious-correlation-examples/&#34;&gt;ложная корреляция&lt;/a&gt;. Как, например, можно заметить, что&#xA;страдающие раком лёгких чаще носят в кармане зажигалку, чем здоровые люди. Но, ведь не зажигалка является причиной&#xA;болезни. Я думаю мы имеем дело со скрытой переменной, чем-то, что способствует тому, что человек станет программистом и&#xA;что он будет знать математику. Что это, мы пока не знаем. Но мы можем сделать следующий вывод. Если&#xA;причинно-следственной связи нет, то учить математику только для того, чтобы стать програмистом нет смысла. Переложить&#xA;зажигалку из кармана в рюкзак не поможет. Если вам сама математика не нравится, не тратьте время.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>
