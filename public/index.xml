@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Thu, 04 May 2023 21:46:47 +0300</lastBuildDate>
+			<lastBuildDate>Tue, 14 Jul 2026 02:36:52 +0300</lastBuildDate>
 		
 			<atom:link href="https://chalex2k.github.io/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Keyboard</title>
+				<link>https://chalex2k.github.io/articles/keyboard/</link>
+				<pubDate>Tue, 14 Jul 2026 02:36:52 +0300</pubDate>
+				<guid>https://chalex2k.github.io/articles/keyboard/</guid>
+				<description>&lt;p&gt;У меня накопилось несколько советов по использованию клавиатуры, которые я проверил на своём опыте.&lt;/p&gt;&#xA;&lt;h2 id=&#34;поменяйте-местами-ctrl-и-capslock&#34;&gt;Поменяйте местами Ctrl и CapsLock&lt;/h2&gt;&#xA;&lt;p&gt;Ctrl используется довольно часто. Ctrl+C, Ctrl+V, Ctrl+F, Ctrl+Z и многие другие сочетания. Но чтобы его нажать, надо опускать всю кисть вниз, чтобы мизинец попал на Ctrl.  На маке command нажимается большим пальцем, который надо под ладонь загибать. Тоже не очень удобно. А CapsLock совсем рядом с мизинцем, но используется довольно редко.&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>Как выбрать язык программирования</title>
 				<link>https://chalex2k.github.io/articles/how-to-choose-a-language/</link>
@@ -40,6 +47,27 @@
 				<pubDate>Tue, 03 Jan 2023 16:34:40 +0300</pubDate>
 				<guid>https://chalex2k.github.io/posts/do-programmers-need-to-know-math/</guid>
 				<description>&lt;h1 id=&#34;нужна-ли-математика-программисту&#34;&gt;Нужна ли математика программисту?&lt;/h1&gt;&#xA;&lt;p&gt;Заезженный вопрос. Обычно аргументы бывают двух типов: &amp;ldquo;Нет, не нужна. Вот Вася Иванов - отличный прогаммист, а&#xA;математики не знает.&amp;rdquo; и &amp;ldquo;Да, нужна. Она правильно мозги развивает и учит думать&amp;rdquo;. Разумеется, мы не рассматриваем&#xA;области в которых математика нужна непостредственно.&lt;/p&gt;&#xA;&lt;p&gt;80% программистов имеют степень бакалавра или выше и большинство из них по компьютрным наукам либо смежным&#xA;дисциплинам. (&lt;a href=&#34;https://insights.stackoverflow.com/survey/2019#education&#34;&gt;stackoverflow survey&lt;/a&gt;) Я предполагаю это&#xA;&lt;a href=&#34;https://www.codecamp.ru/blog/spurious-correlation-examples/&#34;&gt;ложная корреляция&lt;/a&gt;. Как, например, можно заметить, что&#xA;страдающие раком лёгких чаще носят в кармане зажигалку, чем здоровые люди. Но, ведь не зажигалка является причиной&#xA;болезни. Я думаю мы имеем дело со скрытой переменной, чем-то, что способствует тому, что человек станет программистом и&#xA;что он будет знать математику. Что это, мы пока не знаем. Но мы можем сделать следующий вывод. Если&#xA;причинно-следственной связи нет, то учить математику только для того, чтобы стать програмистом нет смысла. Переложить&#xA;зажигалку из кармана в рюкзак не поможет. Если вам сама математика не нравится, не тратьте время.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title></title>
+				<link>https://chalex2k.github.io/articles/%D0%B2%D1%8B-%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D0%B5%D1%82%D0%B5-%D0%BA%D0%BB%D0%B0%D0%B2%D0%B8%D0%B0%D1%82%D1%83%D1%80%D1%83-%D0%BD%D0%B5-%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D1%8C%D0%BD%D0%BE/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://chalex2k.github.io/articles/%D0%B2%D1%8B-%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D0%B5%D1%82%D0%B5-%D0%BA%D0%BB%D0%B0%D0%B2%D0%B8%D0%B0%D1%82%D1%83%D1%80%D1%83-%D0%BD%D0%B5-%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D1%8C%D0%BD%D0%BE/</guid>
+				<description>&lt;p&gt;У меня накопилось несколько советов по использованию клавиатуры, которые я проверил на своём опыте.&lt;/p&gt;&#xA;&lt;h2 id=&#34;поменяйте-местами-ctrl-и-capslock&#34;&gt;Поменяйте местами Ctrl и CapsLock&lt;/h2&gt;&#xA;&lt;p&gt;Ctrl используется довольно часто. Ctrl+C, Ctrl+V, Ctrl+F, Ctrl+Z и многие другие сочетания. Но чтобы его нажать, надо опускать всю кисть вниз, чтобы мизинец попал на Ctrl.  На маке command нажимается большим пальцем, который надо под ладонь загибать. Тоже не очень удобно. А CapsLock совсем рядом с мизинцем, но используется довольно редко.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Math Braintrainer</title>
+				<link>https://chalex2k.github.io/projects/math-brain-trainer/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://chalex2k.github.io/projects/math-brain-trainer/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Surprise Surprise</title>
+				<link>https://chalex2k.github.io/articles/article/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://chalex2k.github.io/articles/article/</guid>
+				<description>&lt;h3 id=&#34;thank-you-for-your-support&#34;&gt;Thank you for your support!&lt;/h3&gt;&#xA;&lt;p&gt;Hello. If you like this template, I&amp;rsquo;d be happy to get a &lt;a href=&#34;https://ko-fi.com/heycharlola&#34;&gt;coffee donation&lt;/a&gt; :)&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;https://chalex2k.github.io/images/thankyou.png&#34;&gt;&#xA;&lt;/figure&gt;</description>
 			</item>
 	</channel>
 </rss>
