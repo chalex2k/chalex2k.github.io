@@ -1,5 +1,6 @@
 ---
-title: "Keyboard"
+title: "Советы по использованию клавиатуры"
+slug: "keyboard-usage-tips"
 date: 2026-07-14T02:36:52+03:00
 draft: false
 ---
