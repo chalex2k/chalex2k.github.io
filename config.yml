@@ -2,9 +2,27 @@ baseURL: 'https://chalex2k.github.io/'
 languageCode: 'en-us'
 title: 'Alexander Chirkin'
 theme: charlolamode
-profileMode:
-    enabled: false
 caches:
   images:
     dir: :cacheDir/images
 
+
+params:
+  socialIcons:
+    - name: github
+      url: "https://github.com/chalex2k"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/chalex2k/"
+  profileMode:
+    enabled: true
+    buttons:
+      - name: Программировочная
+        url: "https://t.me/chalex2k"
+      - name: Задачи по Go
+        url: "https://t.me/chalex2k"
+
+menu:
+  main:
+    - name: Articles
+      url: /articles/
+      weight: 20
