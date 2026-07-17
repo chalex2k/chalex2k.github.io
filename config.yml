@@ -19,7 +19,7 @@ params:
       - name: Программировочная
         url: "https://t.me/chalex2k"
       - name: Задачи по Go
-        url: "https://t.me/chalex2k"
+        url: "https://t.me/golang_quiz"
 
 menu:
   main:
